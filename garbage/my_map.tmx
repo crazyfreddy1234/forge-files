@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="forge_tiles" tilewidth="64" tileheight="64">
+  <image source="../../../Downloads/forge_tiles.png" width="512" height="640"/>
+ </tileset>
+ <layer name="BG_TILES" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztlt0KwyAMRmXrzdb3f98iLBBCosmwNsp3IBcWab9Tf0vZi2+jVqLmfSm1k8dbVGYiHp+HMvagfJqHdLjbg777Dxk8tG9HfbSsrRrtYTlEXXjG41ejPDxZeh5el6jH6SxPPm/N8tCeW5n4u5700OaVPFe4i9U34hLxOETd4aGdpSt4nJ1+Hg8vI/ZdLZ/0sO41ozwiWFm8/8BitkdR8lgZtXllMduhonloRDyIGfkJr0fNI8+RTHjXAXkU1s5CdG/jY5XJI0Lm8YhAHidrrwZf2627VnbgAQAAAAAAAAAAAADAflwwiwYM
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="50" height="50">
+  <object type="lavaarena_center" x="625" y="676"/>
+  <object x="318" y="806" width="2"/>
+  <object type="lavaarena_portal" x="1531" y="1590">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="466" y="588">
+   <properties>
+    <property name="data.spawnerid" value="1"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="766" y="450">
+   <properties>
+    <property name="data.spawnerid" value="2"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="541" y="824">
+   <properties>
+    <property name="data.spawnerid" value="3"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="2360" y="615">
+   <properties>
+    <property name="data.spawnerid" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

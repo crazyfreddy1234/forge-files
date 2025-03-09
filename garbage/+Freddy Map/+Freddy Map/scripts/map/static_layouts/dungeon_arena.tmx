@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="forge_tiles" tilewidth="64" tileheight="64">
+  <image source="../../../../Circus_Forge/scripts/map/static_layouts/forge_tiles.png" width="512" height="640"/>
+ </tileset>
+ <layer name="BG_TILES" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKACAMBEHBVP7/wVZCClGJqCfsQKo02yhJCQAArDI3itT71GQ3kf1pv/SVwbzsa0Z9CujbQ1+M+vvt/W822d+k3tejfhvQF6d+/9EHAHipApVIAps=
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="40" height="40">
+  <object type="lavaarena_center" x="1503" y="1244"/>
+  <object type="lavaarena_portal" x="1503" y="1888"/>
+  <object type="lavaarena_spawner" x="1244" y="1503">
+   <properties>
+    <property name="data.spawnerid" value="4"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="1756" y="992">
+   <properties>
+    <property name="data.spawnerid" value="2"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="1759" y="1504">
+   <properties>
+    <property name="data.spawnerid" value="3"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="1245" y="992">
+   <properties>
+    <property name="data.spawnerid" value="1"/>
+   </properties>
+  </object>
+  <object type="lavaarena_boarlord" x="1501" y="767"/>
+  <object x="1920" y="512"/>
+ </objectgroup>
+</map>

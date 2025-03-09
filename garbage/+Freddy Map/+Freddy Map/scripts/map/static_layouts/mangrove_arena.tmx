@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="forge_tiles" tilewidth="64" tileheight="64">
+  <image source="../../../../Circus_Forge/scripts/map/static_layouts/forge_tiles.png" width="512" height="640"/>
+ </tileset>
+ <layer name="BG_TILES" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1bsNhDAQRVH3AIU4oQT33xIisASPARKk+egGJ1gtK83VeHFvrXUAAIAPW4AZ/miYvGf5oyF7SyUV9lDhTM3510ItGRtGgY4hHcvJU2sG1j60NbohHUO+i9ZinX1tsFrefu95bg6LfF7b/d1rPefZYt0P1nzaoM9FuF8q7OPtfGf7f+js+k76aohKWyrcHwfrPs/W8LSPjCp0RLof2Me1xXsGAAAAAP52uvjWfA==
+  </data>
+ </layer>
+ <objectgroup name="FG_OBJECTS" width="50" height="50">
+  <object type="mangrove_spawner" x="2144" y="1568">
+   <properties>
+    <property name="data.spawnerid" value="3"/>
+   </properties>
+  </object>
+  <object type="mangrove_spawner" x="1632" y="1056">
+   <properties>
+    <property name="data.spawnerid" value="4"/>
+   </properties>
+  </object>
+  <object type="mangrove_spawner" x="1120" y="1568">
+   <properties>
+    <property name="data.spawnerid" value="1"/>
+   </properties>
+  </object>
+  <object type="mangrove_spawner" x="1632" y="2080">
+   <properties>
+    <property name="data.spawnerid" value="2"/>
+   </properties>
+  </object>
+  <object type="lavaarena_boarlord" x="1632" y="768"/>
+  <object type="spikes_mangrove" x="1376" y="1504"/>
+  <object type="geyser2_mangrove" x="1440" y="1696"/>
+  <object type="geyser_mangrove" x="1440" y="1440"/>
+  <object type="geyser2_mangrove" x="1824" y="1440"/>
+  <object type="geyser_mangrove" x="1824" y="1696"/>
+  <object type="geyser_mangrove" x="1632" y="928"/>
+  <object type="geyser_mangrove" x="2272" y="1568"/>
+  <object type="geyser_mangrove" x="1632" y="2208"/>
+  <object type="geyser_mangrove" x="1696" y="736"/>
+  <object type="geyser_mangrove" x="1568" y="736"/>
+  <object type="lavaarena_center" x="1632" y="1568"/>
+  <object type="lavaarena_portal" x="1631" y="1568">
+   <properties>
+    <property name="" value=""/>
+    <property name="data.override_build" value="mangrove_portal"/>
+    <property name="data.portalfx_prefab" value="circus_portal_fx"/>
+    <property name="data.savedrotation.rotation" value="0"/>
+    <property name="data.spawnfx_prefab" value="circus_player_teleport_fx"/>
+   </properties>
+  </object>
+  <object type="spikes_mangrove" x="2144" y="1632"/>
+  <object type="spikes_mangrove" x="2144" y="1504"/>
+  <object type="spikes_mangrove" x="1120" y="1504"/>
+  <object type="spikes_mangrove" x="1120" y="1632"/>
+  <object type="geyser_mangrove" x="2016" y="1568"/>
+  <object type="geyser_mangrove" x="1632" y="1952"/>
+  <object type="geyser_mangrove" x="992" y="1568"/>
+  <object type="geyser_mangrove" x="1248" y="1568"/>
+  <object type="spikes_mangrove" x="1568" y="1056"/>
+  <object type="spikes_mangrove" x="1568" y="2080"/>
+  <object type="spikes_mangrove" x="1696" y="2080"/>
+  <object type="geyser_mangrove" x="1632" y="1184"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1536" y="799"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1729" y="800"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1632" y="800"/>
+  <object type="geyser_mangrove" x="1760" y="1376"/>
+  <object type="geyser2_mangrove" x="1504" y="1376"/>
+  <object type="geyser2_mangrove" x="1760" y="1760"/>
+  <object type="geyser_mangrove" x="1504" y="1760"/>
+  <object type="spikes2_mangrove" x="1632" y="1491"/>
+  <object type="spikes_mangrove" x="1555" y="1568"/>
+  <object type="spikes_mangrove" x="1709" y="1568"/>
+  <object type="spikes_mangrove" x="1696" y="1056"/>
+  <object type="monkeytails_mangrove" x="1312" y="1805"/>
+  <object type="monkeytails_mangrove" x="1876" y="1297"/>
+  <object type="monkeytails_mangrove" x="1561" y="772"/>
+  <object type="monkeytails_mangrove" x="1536" y="800"/>
+  <object type="monkeytails_mangrove" x="1952" y="1376"/>
+  <object type="spikes_mangrove" x="1888" y="1504"/>
+  <object type="monkeytails_mangrove" x="1920" y="1839"/>
+  <object type="driftwood_mangrove" x="1375" y="1837"/>
+  <object type="monkeytails_mangrove" x="1693" y="798"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1632" y="736"/>
+  <object type="spikes2_mangrove" x="1568" y="1312"/>
+  <object type="spikes2_mangrove" x="1696" y="1312"/>
+  <object type="spikes2_mangrove" x="1696" y="1824"/>
+  <object type="spikes2_mangrove" x="1568" y="1824"/>
+  <object type="spikes_mangrove" x="1376" y="1632"/>
+  <object type="spikes_mangrove" x="1888" y="1632"/>
+  <object type="altar_queen_mangrove" x="1952" y="1312"/>
+  <object type="altar_statue1_mangrove" x="1375" y="1185"/>
+  <object type="altar_statue1_mangrove" x="1952" y="1824"/>
+  <object type="altar_statue2_mangrove" x="1344" y="1813"/>
+  <object type="altar_statue1_mangrove" x="1248" y="1760"/>
+  <object type="altar_statue2_mangrove" x="1888" y="1888"/>
+  <object type="altar_statue2_mangrove" x="1312" y="1248"/>
+  <object type="oceantree_mangrove" x="2016" y="1376"/>
+  <object type="oceantree_mangrove" x="1632" y="672"/>
+  <object type="oceantree_mangrove" x="1952" y="1248"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1312" y="1760"/>
+  <object type="oceantree_mangrove" x="1888" y="1824"/>
+  <object type="oceantree_mangrove" x="1312" y="1760"/>
+  <object type="oceantree_mangrove" x="1376" y="1248"/>
+  <object type="driftwood_mangrove" x="1901" y="1323"/>
+  <object type="driftwood_mangrove" x="1729" y="799"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1888" y="1824"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1953" y="1823"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1695" y="736"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1632" y="672"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1888" y="1824"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1887" y="1311"/>
+  <object name="blocker" type="rf_map_blocker_small" x="2016" y="1376"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1951" y="1249"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1375" y="1249"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1311" y="1822"/>
+  <object name="blocker" type="rf_map_blocker_small" x="1951" y="1377"/>
+ </objectgroup>
+</map>

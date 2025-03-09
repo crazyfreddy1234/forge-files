@@ -1,0 +1,5 @@
+<Atlas><Texture filename="mangrove_arena_map.tex" />
+<Elements>
+	<Element name="mangrove_arena_map.tex" u1="0.001" u2="0.5849375" v2="0.999" v1="0.21975" />
+</Elements>
+</Atlas>

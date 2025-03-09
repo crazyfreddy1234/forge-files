@@ -1,0 +1,58 @@
+
+
+-----------------맵 만들때 필요한 요구사항---------------
+
+
+
+
+1. 오브젝트 레이어 이름 : FG_OBJECTS
+
+2. 타일 레이어 이름 : BG_TILES
+
+
+
+3. 플레이어 스폰 포탈 이름 : lavaarena_portal
+
+4. 맵 중앙 이름 : lavaarena_center
+	4-1. 본래 brain은 어그로가 없을경우 lavaarena_center로 향함
+
+5. 몹 스폰 포탈 이름 : lavaarena_spawner
+	5-1. new property 추가 필요
+	5-2. property 이름 : data.spawnerid
+	5-3. value는 포탈의 번호를 의미 (1부터 시작)
+
+6. boarlord 스폰 이름 : lavaarena_boarlord
+
+
+
+*위 사항은 언제나 지켜져야함
+*맵 끝인지 확인 (끝일경우 짤림)
+* 3,4,5,6 의 이름은 type을 뜻함 절대 name에 적지 말기 (5-2는 진짜 이름임)
+
+
+
+
+7. modworldgenmain 확인 (맵마다 설정 요구)
+	7-1. 임의의 이름1   =    Layouts[ name ] , start_location = name , start_setpeice = name , name = name
+	7-2. 진짜 이름       =  _G.AddStartLocation( name, *)  ,  location = name , location = name , id (대문자)
+
+8. map 에다 lua파일 추가
+	8-1. lua파일의 이름은 7-2와 같아야 함
+
+9. prefabs/arenas 에 맵 추가
+	9-1. prefab의 이름은 7-2와 같아야 함
+
+10. inforge_strings 에 맵 이름과 설명 추가
+	10-1. MAPS.name의 이름은 7-2와 같아야 함
+
+11. inforge_prefabs 에 맵의 prefab 추가
+	11-1. 경로와 이름에 주의할것 
+
+12. inforge_main 에 AddMap 추가할것 
+	12-1. AddMap(name, level_id, spawners, icon, minimap, order_priority)
+	12-2. name 은 7-2와 같다. level_id 는 modworldgenmain 에 추가한 id와 같다.
+
+
+
+
+
