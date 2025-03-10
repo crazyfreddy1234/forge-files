@@ -5,7 +5,7 @@
  </tileset>
  <layer name="BG_TILES" width="200" height="200">
   <data encoding="base64" compression="zlib">
-   eJzt3DGOgzAQQFGKaIv0W+79r7lKESmygrGD8QzkPWl6mi/AQ7IsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcE4/lYFvVmvj6Eb+ioFMWtoY3UjZRG0g0sw+errQCBmcoQ+NEOUsfWiECLP62NuGRohwpvuHPpjl9jIzz680Qna3Ja6PB32QVdlGaydH0AiZvGuiNPv7Eo2QQUsbUfRBpPuSt40HfRDhXsyV2tAIe5RtvE4GI8559cEnam1k6GNUG/rgE5n7GNmGPui11UZkH6Pb0Ac9Wtq4Wh8aoUVrG1F9HNWGRtjS04Y++Ca9bUTtP47uQyOUeruI3p/rg5l6nqEyfX+lD2bpebe4eiOw17tGIt/dtUE2tT5mN6IPMlprY2Yjz2vQBpmM2JHs7am8h2mDDD7ZIY7eO679/l0fROvdJ47eza+18aQNIkX2sdXGky6IlKWNVtogwqw+Mu0lYa+RfWiDK+pto/a/jNrgao7oA65CG1CnDajbc6YL30IbAAAAAAAAAAAA235XBtAH1OgD1ukD1ukDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADiLfx7UUNw=
+   eJzt3TGOgzAQQFGKaIv0W+b+19wiTcR6HDsBM+D3JPc0X4YMJssCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAFdyOvgBI6FZYwJM+oE4jUKcPqNMI1OkDYvqAOo1ATB8Q0wfE9AExfUBMHxDTB8T0ATF9QEwfENMHlHmHF2L6gP8ei3OEsPZ4Wa9dPI68KEggakMfzO5dG/pgVo9FH1DS2oY+mM26DX3AU28b+mAmvW3og5nYOyBm74A6ewfUld4j0QY8mQVCzPu5UKYNiOkDYtqAMm1ATB8Q0wfE9AExfUBMHxDTB8T0wWg/lZWNPhip1kbGRvTBKC1tZGtEH4yiD4jpA2Jn78N5WvZ01j58p4QRztJHqQeNsJfXe5SsfbQ2oQ+2tD6bmrGPT9rQB98q/S9fSycjfdqGRvhGy39Wnr0NffCJljaOtkUb+qDXfZmnDY3Q6r5as7ShD95Zt/G6stEHI9XayNbHHm3ogxp9QNm7NmboA0pa2rh6H1DS2saV+4CSnjYy9aEL9tbbRqb5hy7YU28X2ebn2mBPPfdQGd+/0gZ763m2yNaINsim1MiRz+7aIJtaH6Mb0QYZRW2MbKT0jR5tcLQtZiTf9rTew7RBBp/MELeeO0bn37XB0XrniVvP5qM2IIMj+9AGZ5ClDchsVB/a4Eq27EMbXFFvG7XvMmqDq9mjD7gKbUCdNqDum990YRbaAAAAAAAAAAAAeO83WIA+oEYfENMHxPQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJzFHy84Sjg=
   </data>
  </layer>
  <objectgroup name="FG_OBJECTS" width="200" height="200">
@@ -156,18 +156,13 @@
   <object type="slurtle" x="6158" y="8483"/>
   <object type="cavelight" x="5533" y="7825"/>
   <object type="flower_cave" x="8360" y="7752"/>
-  <object type="flower_cave" x="8754" y="8412"/>
   <object type="flower_cave" x="8748" y="7912"/>
   <object type="flower_cave" x="8494" y="8122"/>
   <object type="flower_cave" x="8310" y="7970"/>
   <object type="flower_cave" x="8690" y="7484"/>
-  <object type="flower_cave" x="9118" y="7998"/>
-  <object type="flower_cave" x="9040" y="8300"/>
   <object type="flower_cave" x="8884" y="7660"/>
   <object type="flower_cave" x="8536" y="7770"/>
   <object type="flower_cave" x="8390" y="7514"/>
-  <object type="flower_cave" x="8132" y="7698"/>
-  <object type="flower_cave" x="8114" y="7852"/>
   <object type="flower_cave" x="8550" y="7928"/>
   <object type="flower_cave" x="8670" y="8140"/>
   <object type="flower_cave" x="8586" y="8320"/>
@@ -179,51 +174,52 @@
   <object type="flower_cave" x="8600" y="7670"/>
   <object type="flower_cave" x="8610" y="7686"/>
   <object type="flower_cave" x="8556" y="7798"/>
-  <object type="flower_cave" x="8904" y="8110"/>
-  <object type="flower_cave" x="8838" y="8146"/>
-  <object type="flower_cave" x="8756" y="8252"/>
-  <object type="flower_cave" x="8904" y="8422"/>
-  <object type="flower_cave" x="8908" y="8252"/>
   <object type="flower_cave" x="8660" y="7936"/>
   <object type="flower_cave" x="8326" y="7748"/>
   <object type="flower_cave" x="8290" y="7882"/>
   <object type="flower_cave" x="8636" y="7662"/>
   <object type="flower_cave" x="8920" y="7744"/>
-  <object type="flower_cave" x="8922" y="8196"/>
-  <object type="flower_cave" x="9044" y="8398"/>
-  <object type="flower_cave" x="8134" y="6820"/>
-  <object type="flower_cave" x="8468" y="6666"/>
   <object type="flower_cave" x="8878" y="7118"/>
-  <object type="flower_cave" x="8344" y="6942"/>
-  <object type="flower_cave" x="8152" y="6914"/>
-  <object type="flower_cave" x="7998" y="6694"/>
-  <object type="flower_cave" x="8590" y="6830"/>
   <object type="flower_cave" x="8714" y="7184"/>
   <object type="flower_cave" x="8450" y="7360"/>
-  <object type="flower_cave" x="8472" y="7088"/>
-  <object type="flower_cave" x="8382" y="6786"/>
-  <object type="flower_cave" x="8190" y="6660"/>
-  <object type="flower_cave" x="8216" y="6992"/>
-  <object type="flower_cave" x="8444" y="7098"/>
-  <object type="flower_cave" x="8800" y="6892"/>
   <object type="flower_cave" x="8960" y="7084"/>
-  <object type="flower_cave" x="8680" y="6988"/>
-  <object type="flower_cave" x="8490" y="6890"/>
-  <object type="flower_cave" x="8426" y="6976"/>
   <object type="flower_cave" x="8848" y="7212"/>
   <object type="flower_cave" x="9034" y="7402"/>
   <object type="flower_cave" x="9096" y="7628"/>
   <object type="flower_cave" x="8756" y="7418"/>
   <object type="flower_cave" x="8568" y="7248"/>
-  <object type="flower_cave" x="8446" y="7244"/>
   <object type="flower_cave" x="8274" y="7770"/>
   <object type="flower_cave" x="8274" y="7528"/>
   <object type="flower_cave" x="8992" y="7964"/>
-  <object type="flower_cave" x="9414" y="7948"/>
-  <object type="flower_cave" x="9226" y="8242"/>
-  <object type="flower_cave" x="9076" y="8136"/>
   <object type="flower_cave" x="9170" y="7880"/>
   <object type="flower_cave" x="9090" y="7594"/>
   <object type="flower_cave" x="8802" y="7466"/>
+  <object type="flower_cave" x="9268" y="7112"/>
+  <object type="flower_cave" x="9498" y="7080"/>
+  <object type="flower_cave" x="9364" y="7328"/>
+  <object type="flower_cave" x="9568" y="7254"/>
+  <object type="flower_cave" x="9124" y="7286"/>
+  <object type="flower_cave" x="9052" y="7130"/>
+  <object type="flower_cave" x="9334" y="7392"/>
+  <object type="flower_cave" x="9438" y="7092"/>
+  <object type="flower_cave" x="9300" y="7212"/>
+  <object type="flower_cave" x="9288" y="7444"/>
+  <object type="flower_cave" x="9314" y="7504"/>
+  <object type="flower_cave" x="9582" y="7384"/>
+  <object type="flower_cave" x="9318" y="6888"/>
+  <object type="flower_cave" x="8964" y="6982"/>
+  <object type="flower_cave" x="8770" y="7060"/>
+  <object type="flower_cave" x="8950" y="7512"/>
+  <object type="flower_cave" x="8922" y="7292"/>
+  <object type="flower_cave" x="8544" y="7380"/>
+  <object type="flower_cave" x="8376" y="7654"/>
+  <object type="flower_cave" x="9372" y="7672"/>
+  <object type="flower_cave" x="9225" y="7776"/>
+  <object type="flower_cave" x="9232" y="7624"/>
+  <object type="flower_cave" x="9535" y="7531"/>
+  <object type="flower_cave" x="8867" y="8049"/>
+  <object type="flower_cave" x="9192" y="6928"/>
+  <object type="flower_cave" x="9149" y="7049"/>
+  <object type="flower_cave" x="9156" y="7464"/>
  </objectgroup>
 </map>
