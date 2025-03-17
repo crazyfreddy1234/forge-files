@@ -234,7 +234,15 @@
    </properties>
   </object>
   <object type="lavaarena_boarlord" x="2100" y="10568"/>
-  <object type="skeleton" x="10384" y="9047"/>
-  <object type="lantern" x="10384" y="8996"/>
+  <object type="skeleton" x="10414" y="9044"/>
+  <object type="lantern" x="10404" y="8988"/>
+  <object type="backpack" x="10407" y="9069"/>
+  <object type="steadfastgrandarmor" x="10332" y="8997"/>
+  <object type="silkengrandarmor" x="10354" y="9069"/>
+  <object type="firepit" x="10366" y="9024"/>
+  <object type="moltendarts" x="10407" y="9018"/>
+  <object type="resplendentnoxhelm" x="10327" y="9042"/>
+  <object type="wovengarland" x="10377" y="8985"/>
+  <object type="clairvoyantcrown" x="10382" y="9050"/>
  </objectgroup>
 </map>
