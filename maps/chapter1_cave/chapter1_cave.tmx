@@ -5,28 +5,12 @@
  </tileset>
  <layer name="BG_TILES" width="200" height="200">
   <data encoding="base64" compression="zlib">
-   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
+   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
   </data>
  </layer>
  <objectgroup name="FG_OBJECTS" width="200" height="200">
   <object type="lavaarena_portal" x="6736" y="6612"/>
   <object type="lavaarena_center" x="5972" y="8025"/>
-  <object type="lavaarena_spawner" x="6713" y="9986">
-   <properties>
-    <property name="data.spawnerid" value="1"/>
-   </properties>
-  </object>
-  <object type="lavaarena_spawner" x="6617" y="9945">
-   <properties>
-    <property name="data.spawnerid" value="2"/>
-   </properties>
-  </object>
-  <object type="lavaarena_spawner" x="6661" y="9965">
-   <properties>
-    <property name="data.spawnerid" value="3"/>
-   </properties>
-  </object>
-  <object type="lavaarena_boarlord" x="6663" y="10007"/>
   <object type="hf_candle_staff" x="6572" y="6666"/>
   <object type="hf_candle_staff" x="6665" y="6753"/>
   <object type="hf_candle_staff" x="6834" y="6791"/>
@@ -155,14 +139,9 @@
   <object type="cavelight" x="6459" y="8306"/>
   <object type="slurtle" x="6158" y="8483"/>
   <object type="cavelight" x="5533" y="7825"/>
-  <object type="flower_cave" x="8360" y="7752"/>
   <object type="flower_cave" x="8748" y="7912"/>
   <object type="flower_cave" x="8494" y="8122"/>
-  <object type="flower_cave" x="8310" y="7970"/>
-  <object type="flower_cave" x="8690" y="7484"/>
   <object type="flower_cave" x="8884" y="7660"/>
-  <object type="flower_cave" x="8536" y="7770"/>
-  <object type="flower_cave" x="8390" y="7514"/>
   <object type="flower_cave" x="8550" y="7928"/>
   <object type="flower_cave" x="8670" y="8140"/>
   <object type="flower_cave" x="8586" y="8320"/>
@@ -171,55 +150,91 @@
   <object type="flower_cave" x="8478" y="8288"/>
   <object type="flower_cave" x="8992" y="7822"/>
   <object type="flower_cave" x="8824" y="7778"/>
-  <object type="flower_cave" x="8600" y="7670"/>
-  <object type="flower_cave" x="8610" y="7686"/>
-  <object type="flower_cave" x="8556" y="7798"/>
   <object type="flower_cave" x="8660" y="7936"/>
-  <object type="flower_cave" x="8326" y="7748"/>
-  <object type="flower_cave" x="8290" y="7882"/>
-  <object type="flower_cave" x="8636" y="7662"/>
   <object type="flower_cave" x="8920" y="7744"/>
   <object type="flower_cave" x="8878" y="7118"/>
-  <object type="flower_cave" x="8714" y="7184"/>
-  <object type="flower_cave" x="8450" y="7360"/>
   <object type="flower_cave" x="8960" y="7084"/>
   <object type="flower_cave" x="8848" y="7212"/>
   <object type="flower_cave" x="9034" y="7402"/>
   <object type="flower_cave" x="9096" y="7628"/>
-  <object type="flower_cave" x="8756" y="7418"/>
-  <object type="flower_cave" x="8568" y="7248"/>
-  <object type="flower_cave" x="8274" y="7770"/>
-  <object type="flower_cave" x="8274" y="7528"/>
   <object type="flower_cave" x="8992" y="7964"/>
   <object type="flower_cave" x="9170" y="7880"/>
   <object type="flower_cave" x="9090" y="7594"/>
-  <object type="flower_cave" x="8802" y="7466"/>
   <object type="flower_cave" x="9268" y="7112"/>
   <object type="flower_cave" x="9498" y="7080"/>
-  <object type="flower_cave" x="9364" y="7328"/>
-  <object type="flower_cave" x="9568" y="7254"/>
   <object type="flower_cave" x="9124" y="7286"/>
   <object type="flower_cave" x="9052" y="7130"/>
-  <object type="flower_cave" x="9334" y="7392"/>
   <object type="flower_cave" x="9438" y="7092"/>
   <object type="flower_cave" x="9300" y="7212"/>
-  <object type="flower_cave" x="9288" y="7444"/>
   <object type="flower_cave" x="9314" y="7504"/>
-  <object type="flower_cave" x="9582" y="7384"/>
   <object type="flower_cave" x="9318" y="6888"/>
   <object type="flower_cave" x="8964" y="6982"/>
-  <object type="flower_cave" x="8770" y="7060"/>
   <object type="flower_cave" x="8950" y="7512"/>
   <object type="flower_cave" x="8922" y="7292"/>
-  <object type="flower_cave" x="8544" y="7380"/>
-  <object type="flower_cave" x="8376" y="7654"/>
-  <object type="flower_cave" x="9372" y="7672"/>
   <object type="flower_cave" x="9225" y="7776"/>
   <object type="flower_cave" x="9232" y="7624"/>
-  <object type="flower_cave" x="9535" y="7531"/>
   <object type="flower_cave" x="8867" y="8049"/>
   <object type="flower_cave" x="9192" y="6928"/>
   <object type="flower_cave" x="9149" y="7049"/>
   <object type="flower_cave" x="9156" y="7464"/>
+  <object type="flower_cave" x="8316" y="8053"/>
+  <object type="flower_cave" x="8708" y="7764"/>
+  <object type="flower_cave" x="8440" y="7968"/>
+  <object type="flower_cave" x="8352" y="8195"/>
+  <object type="flower_cave" x="8616" y="8029"/>
+  <object type="flower_cave" x="9286" y="2706"/>
+  <object type="flower_cave" x="9898" y="2656"/>
+  <object type="flower_cave" x="9644" y="2980"/>
+  <object type="flower_cave" x="9400" y="2972"/>
+  <object type="flower_cave" x="9316" y="3218"/>
+  <object type="flower_cave" x="9354" y="3364"/>
+  <object type="flower_cave" x="9544" y="3456"/>
+  <object type="flower_cave" x="9718" y="3418"/>
+  <object type="flower_cave" x="9932" y="3246"/>
+  <object type="flower_cave" x="9986" y="3078"/>
+  <object type="flower_cave" x="9892" y="2850"/>
+  <object type="flower_cave" x="9724" y="2712"/>
+  <object type="flower_cave" x="9470" y="2682"/>
+  <object type="flower_cave" x="9232" y="2896"/>
+  <object type="flower_cave" x="9162" y="2874"/>
+  <object type="flower_cave" x="9142" y="2782"/>
+  <object type="flower_cave" x="9140" y="3078"/>
+  <object type="flower_cave" x="9234" y="3280"/>
+  <object type="flower_cave" x="9568" y="3136"/>
+  <object type="flower_cave" x="9710" y="3270"/>
+  <object type="flower_cave" x="9470" y="3246"/>
+  <object type="flower_cave" x="9254" y="3062"/>
+  <object type="flower_cave" x="9436" y="3100"/>
+  <object type="flower_cave" x="9348" y="2804"/>
+  <object type="flower_cave" x="9630" y="2790"/>
+  <object type="flower_cave" x="9464" y="2900"/>
+  <object type="flower_cave" x="9556" y="2644"/>
+  <object type="flower_cave" x="9768" y="3048"/>
+  <object type="flower_cave" x="10018" y="2838"/>
+  <object type="flower_cave" x="10152" y="3100"/>
+  <object type="flower_cave" x="9566" y="3306"/>
+  <object type="flower_cave" x="9408" y="3454"/>
+  <object type="flower_cave" x="9786" y="2886"/>
+  <object type="flower_cave" x="9570" y="2914"/>
+  <object type="flower_cave" x="9510" y="2810"/>
+  <object type="flower_cave" x="9346" y="2640"/>
+  <object type="lavaarena_spawner" x="2054" y="10506">
+   <properties>
+    <property name="data.spawnerid" value="2"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="2098" y="10526">
+   <properties>
+    <property name="data.spawnerid" value="3"/>
+   </properties>
+  </object>
+  <object type="lavaarena_spawner" x="2150" y="10547">
+   <properties>
+    <property name="data.spawnerid" value="1"/>
+   </properties>
+  </object>
+  <object type="lavaarena_boarlord" x="2100" y="10568"/>
+  <object type="skeleton" x="10384" y="9047"/>
+  <object type="lantern" x="10384" y="8996"/>
  </objectgroup>
 </map>
