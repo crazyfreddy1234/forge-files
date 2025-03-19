@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="200" height="200" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="forge_tiles" tilewidth="64" tileheight="64">
-  <image source="../forge_tiles.png" width="512" height="640"/>
+  <image source="../../forge_tiles.png" width="512" height="640"/>
  </tileset>
  <layer name="BG_TILES" width="200" height="200">
   <data encoding="base64" compression="zlib">
-   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
+   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
   </data>
  </layer>
  <objectgroup name="FG_OBJECTS" width="200" height="200">
@@ -234,55 +234,54 @@
    </properties>
   </object>
   <object type="lavaarena_boarlord" x="2100" y="10568"/>
-  <object type="skeleton" x="10414" y="9044"/>
-  <object type="lantern" x="10412" y="8988"/>
-  <object type="backpack" x="10407" y="9069"/>
-  <object type="steadfastgrandarmor" x="10332" y="8997"/>
-  <object type="silkengrandarmor" x="10354" y="9069"/>
-  <object type="firepit" x="10366" y="9024"/>
-  <object type="moltendarts" x="9967" y="9407"/>
-  <object type="resplendentnoxhelm" x="10327" y="9042"/>
-  <object type="wovengarland" x="10377" y="8985"/>
-  <object type="clairvoyantcrown" x="10382" y="9050"/>
+  <object type="skeleton" x="7939" y="6870"/>
+  <object type="lantern" x="7961" y="6818"/>
+  <object type="steadfastgrandarmor" x="7857" y="6823"/>
+  <object type="silkengrandarmor" x="7879" y="6895"/>
+  <object type="firepit" x="7891" y="6850"/>
+  <object type="moltendarts" x="7492" y="7233"/>
+  <object type="resplendentnoxhelm" x="7852" y="6868"/>
+  <object type="wovengarland" x="7902" y="6811"/>
+  <object type="clairvoyantcrown" x="7907" y="6876"/>
   <object type="grotto_waterfall_big" x="6553" y="7111"/>
-  <object type="grotto_waterfall_big" x="10535" y="9037"/>
-  <object type="grotto_waterfall_small2" x="10231" y="9392"/>
-  <object type="grotto_waterfall_small2" x="10601" y="9627"/>
-  <object type="grotto_waterfall_small1" x="10393" y="9575"/>
-  <object type="grotto_waterfall_small1" x="10172" y="9205"/>
-  <object type="grotto_waterfall_small2" x="10362" y="8627"/>
-  <object type="grotto_waterfall_small2" x="10691" y="9062"/>
-  <object type="grotto_waterfall_small1" x="10867" y="9372"/>
-  <object type="grotto_waterfall_small2" x="10583" y="8862"/>
-  <object type="grotto_waterfall_small1" x="10484" y="8682"/>
-  <object type="grotto_waterfall_small1" x="10637" y="9409"/>
-  <object type="grotto_waterfall_small1" x="10439" y="9212"/>
-  <object type="grotto_waterfall_small1" x="10483" y="9440"/>
-  <object type="grotto_waterfall_small1" x="10533" y="9261"/>
-  <object type="grotto_waterfall_small1" x="10310" y="9186"/>
-  <object type="grotto_waterfall_small1" x="10225" y="8572"/>
-  <object type="grotto_waterfall_small2" x="10800" y="9231"/>
-  <object type="grotto_waterfall_small1" x="10812" y="9247"/>
+  <object type="grotto_waterfall_big" x="8060" y="6863"/>
+  <object type="grotto_waterfall_small2" x="7756" y="7218"/>
+  <object type="grotto_waterfall_small2" x="8126" y="7453"/>
+  <object type="grotto_waterfall_small1" x="7918" y="7401"/>
+  <object type="grotto_waterfall_small1" x="7697" y="7031"/>
+  <object type="grotto_waterfall_small2" x="7887" y="6453"/>
+  <object type="grotto_waterfall_small2" x="8216" y="6888"/>
+  <object type="grotto_waterfall_small1" x="8392" y="7198"/>
+  <object type="grotto_waterfall_small2" x="8108" y="6688"/>
+  <object type="grotto_waterfall_small1" x="8009" y="6508"/>
+  <object type="grotto_waterfall_small1" x="8162" y="7235"/>
+  <object type="grotto_waterfall_small1" x="7964" y="7038"/>
+  <object type="grotto_waterfall_small1" x="8008" y="7266"/>
+  <object type="grotto_waterfall_small1" x="8058" y="7087"/>
+  <object type="grotto_waterfall_small1" x="7835" y="7012"/>
+  <object type="grotto_waterfall_small1" x="7750" y="6398"/>
+  <object type="grotto_waterfall_small2" x="8325" y="7057"/>
+  <object type="grotto_waterfall_small1" x="8337" y="7073"/>
   <object type="cavelight_small" x="7606" y="9820"/>
   <object type="cavelight_small" x="8131" y="10451"/>
   <object type="cavelight_tiny" x="9792" y="10897"/>
   <object type="cavelight_tiny" x="9236" y="11088"/>
   <object type="cavelight_small" x="8615" y="10977"/>
   <object type="cavelight_small" x="11131" y="10568"/>
-  <object type="cavelight_tiny" x="10687" y="9797"/>
-  <object type="cavelight_tiny" x="11095" y="9596"/>
-  <object type="cavelight_tiny" x="10746" y="9551"/>
-  <object type="cavelight_tiny" x="10846" y="9494"/>
-  <object type="cavelight_tiny" x="10811" y="9543"/>
-  <object type="cavelight_small" x="10075" y="9531"/>
-  <object type="cavelight_small" x="10873" y="8993"/>
-  <object type="cavelight_small" x="10492" y="8467"/>
-  <object type="cavelight_small" x="9935" y="9003"/>
-  <object type="cavelight_small" x="9863" y="8473"/>
+  <object type="cavelight_tiny" x="8212" y="7623"/>
+  <object type="cavelight_tiny" x="8620" y="7422"/>
+  <object type="cavelight_tiny" x="8271" y="7377"/>
+  <object type="cavelight_tiny" x="8371" y="7320"/>
+  <object type="cavelight_tiny" x="8336" y="7369"/>
+  <object type="cavelight_small" x="7600" y="7357"/>
+  <object type="cavelight_small" x="8398" y="6819"/>
+  <object type="cavelight_small" x="8017" y="6293"/>
+  <object type="cavelight_small" x="7460" y="6829"/>
+  <object type="cavelight_small" x="7388" y="6299"/>
   <object type="cavelight_tiny" x="9024" y="8545"/>
   <object type="cavelight_tiny" x="9169" y="6816"/>
   <object type="cavelight_tiny" x="9183" y="6035"/>
-  <object type="grotto_waterfall_small1" x="10629" y="9200"/>
-  <object type="grotto_waterfall_big" x="10789" y="9499"/>
+  <object type="grotto_waterfall_small1" x="8154" y="7026"/>
+  <object type="grotto_waterfall_big" x="8314" y="7325"/>
  </objectgroup>
 </map>
