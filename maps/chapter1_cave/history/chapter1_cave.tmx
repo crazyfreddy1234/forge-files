@@ -5,7 +5,7 @@
  </tileset>
  <layer name="BG_TILES" width="200" height="200">
   <data encoding="base64" compression="zlib">
-   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
+   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
   </data>
  </layer>
  <objectgroup name="FG_OBJECTS" width="200" height="200">
@@ -283,5 +283,31 @@
   <object type="cavelight_tiny" x="9183" y="6035"/>
   <object type="grotto_waterfall_small1" x="8154" y="7026"/>
   <object type="grotto_waterfall_big" x="8314" y="7325"/>
+  <object type="grotto_waterfall_small1" x="6346" y="6639"/>
+  <object type="grotto_waterfall_small1" x="6417" y="6590"/>
+  <object type="grotto_waterfall_small1" x="6481" y="6535"/>
+  <object type="grotto_waterfall_small1" x="6587" y="6509"/>
+  <object type="grotto_waterfall_small1" x="6704" y="6509"/>
+  <object type="grotto_waterfall_small1" x="6878" y="6531"/>
+  <object type="grotto_waterfall_small1" x="7071" y="6615"/>
+  <object type="grotto_waterfall_small1" x="7079" y="6668"/>
+  <object type="grotto_waterfall_small1" x="7080" y="6719"/>
+  <object type="grotto_waterfall_small1" x="7086" y="6762"/>
+  <object type="grotto_waterfall_small1" x="7033" y="6591"/>
+  <object type="grotto_waterfall_small1" x="7048" y="6636"/>
+  <object type="grotto_waterfall_small1" x="7033" y="6667"/>
+  <object type="grotto_waterfall_small1" x="6343" y="6438"/>
+  <object type="grotto_waterfall_small1" x="6498" y="6411"/>
+  <object type="grotto_waterfall_small1" x="6558" y="6410"/>
+  <object type="grotto_waterfall_small1" x="6683" y="6410"/>
+  <object type="grotto_waterfall_small1" x="6747" y="6425"/>
+  <object type="grotto_waterfall_small1" x="6797" y="6453"/>
+  <object type="grotto_waterfall_small1" x="6813" y="6492"/>
+  <object type="grotto_waterfall_small1" x="6843" y="6650"/>
+  <object type="grotto_waterfall_small1" x="6851" y="6648"/>
+  <object type="grotto_waterfall_small1" x="6856" y="6663"/>
+  <object type="grotto_waterfall_small1" x="6843" y="6663"/>
+  <object type="grotto_waterfall_small1" x="6830" y="6661"/>
+  <object type="grotto_waterfall_small1" x="6834" y="6648"/>
  </objectgroup>
 </map>

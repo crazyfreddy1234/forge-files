@@ -5,7 +5,7 @@
  </tileset>
  <layer name="BG_TILES" width="200" height="200">
   <data encoding="base64" compression="zlib">
-   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
+   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
   </data>
  </layer>
  <objectgroup name="FG_OBJECTS" width="200" height="200">
@@ -27,7 +27,7 @@
     <property name="data.team_num" value="1"/>
    </properties>
   </object>
-  <object type="cavelight" x="6284" y="7042"/>
+  <object type="cavelight" x="6231" y="6763"/>
   <object type="pitpig" x="5775" y="7572">
    <properties>
     <property name="data.home_pos" value="3"/>
@@ -47,8 +47,7 @@
    </properties>
   </object>
   <object type="cavelight" x="5725" y="7540"/>
-  <object type="cavelight" x="5983" y="8034"/>
-  <object type="skeleton" x="5422" y="7867"/>
+  <object type="skeleton" x="5526" y="7778"/>
   <object type="livingstaff" x="5309" y="7953"/>
   <object type="skeleton" x="5249" y="8006"/>
   <object type="splintmail" x="5433" y="7880"/>
@@ -99,46 +98,43 @@
     <property name="data.centerid" value="6"/>
    </properties>
   </object>
-  <object type="pitpig" x="6212" y="8391">
+  <object type="pitpig" x="6191" y="8587">
    <properties>
     <property name="data.home_pos" value="8"/>
     <property name="data.team_num" value="2"/>
    </properties>
   </object>
-  <object type="pitpig" x="6243" y="8388">
+  <object type="pitpig" x="6222" y="8584">
    <properties>
     <property name="data.home_pos" value="8"/>
     <property name="data.team_num" value="3"/>
    </properties>
   </object>
-  <object type="pitpig" x="6396" y="8286">
+  <object type="pitpig" x="6381" y="8390">
    <properties>
     <property name="data.home_pos" value="7"/>
     <property name="data.team_num" value="3"/>
    </properties>
   </object>
-  <object type="pitpig" x="6397" y="8256">
+  <object type="pitpig" x="6382" y="8360">
    <properties>
     <property name="data.home_pos" value="7"/>
     <property name="data.team_num" value="3"/>
    </properties>
   </object>
-  <object type="dunguen_center" x="6383" y="8271">
+  <object type="dunguen_center" x="6368" y="8375">
    <properties>
     <property name="data.centerid" value="7"/>
    </properties>
   </object>
-  <object type="dunguen_center" x="6227" y="8375">
+  <object type="dunguen_center" x="6206" y="8571">
    <properties>
     <property name="data.centerid" value="8"/>
    </properties>
   </object>
-  <object type="cavelight" x="6351" y="8608"/>
-  <object type="cavelight" x="7020" y="8711"/>
   <object type="slurtle" x="6194" y="8247"/>
-  <object type="cavelight" x="6459" y="8306"/>
-  <object type="slurtle" x="6158" y="8483"/>
-  <object type="cavelight" x="5533" y="7825"/>
+  <object type="cavelight" x="6293" y="8400"/>
+  <object type="slurtle" x="6313" y="8494"/>
   <object type="flower_cave" x="8748" y="7912"/>
   <object type="flower_cave" x="8494" y="8122"/>
   <object type="flower_cave" x="8884" y="7660"/>
@@ -234,55 +230,44 @@
    </properties>
   </object>
   <object type="lavaarena_boarlord" x="2100" y="10568"/>
-  <object type="skeleton" x="10414" y="9044"/>
-  <object type="lantern" x="10412" y="8988"/>
-  <object type="backpack" x="10407" y="9069"/>
-  <object type="steadfastgrandarmor" x="10332" y="8997"/>
-  <object type="silkengrandarmor" x="10354" y="9069"/>
-  <object type="firepit" x="10366" y="9024"/>
-  <object type="moltendarts" x="9967" y="9407"/>
-  <object type="resplendentnoxhelm" x="10327" y="9042"/>
-  <object type="wovengarland" x="10377" y="8985"/>
-  <object type="clairvoyantcrown" x="10382" y="9050"/>
-  <object type="grotto_waterfall_big" x="6553" y="7111"/>
-  <object type="grotto_waterfall_big" x="10535" y="9037"/>
-  <object type="grotto_waterfall_small2" x="10231" y="9392"/>
-  <object type="grotto_waterfall_small2" x="10601" y="9627"/>
+  <object type="skeleton" x="8811" y="9216"/>
+  <object type="lantern" x="8804" y="9175"/>
+  <object type="backpack" x="8798" y="9252"/>
+  <object type="steadfastgrandarmor" x="8728" y="9184"/>
+  <object type="silkengrandarmor" x="8739" y="9254"/>
+  <object type="firepit" x="8767" y="9215"/>
+  <object type="moltendarts" x="8751" y="9190"/>
+  <object type="resplendentnoxhelm" x="8724" y="9229"/>
+  <object type="wovengarland" x="8776" y="9172"/>
+  <object type="clairvoyantcrown" x="8766" y="9243"/>
+  <object type="grotto_waterfall_big" x="10326" y="9045"/>
+  <object type="grotto_waterfall_small2" x="10312" y="9460"/>
   <object type="grotto_waterfall_small1" x="10393" y="9575"/>
   <object type="grotto_waterfall_small1" x="10172" y="9205"/>
-  <object type="grotto_waterfall_small2" x="10362" y="8627"/>
-  <object type="grotto_waterfall_small2" x="10691" y="9062"/>
   <object type="grotto_waterfall_small1" x="10867" y="9372"/>
-  <object type="grotto_waterfall_small2" x="10583" y="8862"/>
-  <object type="grotto_waterfall_small1" x="10484" y="8682"/>
-  <object type="grotto_waterfall_small1" x="10637" y="9409"/>
-  <object type="grotto_waterfall_small1" x="10439" y="9212"/>
   <object type="grotto_waterfall_small1" x="10483" y="9440"/>
-  <object type="grotto_waterfall_small1" x="10533" y="9261"/>
-  <object type="grotto_waterfall_small1" x="10310" y="9186"/>
-  <object type="grotto_waterfall_small1" x="10225" y="8572"/>
+  <object type="grotto_waterfall_small1" x="10636" y="9388"/>
   <object type="grotto_waterfall_small2" x="10800" y="9231"/>
   <object type="grotto_waterfall_small1" x="10812" y="9247"/>
-  <object type="cavelight_small" x="7606" y="9820"/>
-  <object type="cavelight_small" x="8131" y="10451"/>
-  <object type="cavelight_tiny" x="9792" y="10897"/>
-  <object type="cavelight_tiny" x="9236" y="11088"/>
-  <object type="cavelight_small" x="8615" y="10977"/>
-  <object type="cavelight_small" x="11131" y="10568"/>
+  <object type="cavelight_tiny" x="9699" y="10872"/>
   <object type="cavelight_tiny" x="10687" y="9797"/>
   <object type="cavelight_tiny" x="11095" y="9596"/>
   <object type="cavelight_tiny" x="10746" y="9551"/>
   <object type="cavelight_tiny" x="10846" y="9494"/>
-  <object type="cavelight_tiny" x="10811" y="9543"/>
   <object type="cavelight_small" x="10075" y="9531"/>
   <object type="cavelight_small" x="10873" y="8993"/>
-  <object type="cavelight_small" x="10492" y="8467"/>
-  <object type="cavelight_small" x="9935" y="9003"/>
-  <object type="cavelight_small" x="9863" y="8473"/>
-  <object type="cavelight_tiny" x="9024" y="8545"/>
+  <object type="cavelight_small" x="9923" y="9100"/>
+  <object type="cavelight_small" x="10400" y="8826"/>
   <object type="cavelight_tiny" x="9169" y="6816"/>
-  <object type="cavelight_tiny" x="9183" y="6035"/>
-  <object type="grotto_waterfall_small1" x="10629" y="9200"/>
   <object type="grotto_waterfall_big" x="10789" y="9499"/>
+  <object type="cavelight_small" x="9516" y="5212"/>
+  <object type="skeleton" x="8192" y="11623"/>
+  <object type="grotto_waterfall_small1" x="10539" y="8957"/>
+  <object type="cavelight" x="9702" y="8659"/>
+  <object type="cavelight" x="9803" y="11999"/>
+  <object type="cavelight" x="10018" y="8870"/>
+  <object type="cavelight_small" x="7071" y="10080"/>
+  <object type="cavelight_small" x="7913" y="9879"/>
+  <object type="cavelight_small" x="7783" y="10424"/>
  </objectgroup>
 </map>
